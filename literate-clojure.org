@@ -1,0 +1,11 @@
+* Literate programming with Clojure
+  Literate programming is a living document, that included code that can be evaluated.
+
+  ~, b d~ t create a babel demarcation block.
+
+#+BEGIN_SRC clojure :results value
+(+ 1 2 3 4 5)
+#+END_SRC
+
+#+RESULTS:
+: 15
