@@ -1,0 +1,5 @@
+;; The simplest deps.edn configuration you can define.
+;; The clojure dependency will be taken from the Clojure CLI tools install
+;; or from ~/.clojure/deps.edn
+
+{}
